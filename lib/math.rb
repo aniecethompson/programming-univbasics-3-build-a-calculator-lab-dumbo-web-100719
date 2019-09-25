@@ -19,8 +19,8 @@ puts product
 end
 
 def modulo(num1, num2)
-  modulus =
-
+  modulus = num2 % num1
+  puts mod
 end
 
 def square_root(num)
