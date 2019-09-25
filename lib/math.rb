@@ -19,6 +19,7 @@ puts product
 end
 
 def modulo(num1, num2)
+  modulus =
 
 end
 
