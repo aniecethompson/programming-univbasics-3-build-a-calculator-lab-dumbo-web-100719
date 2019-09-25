@@ -9,18 +9,18 @@ puts difference
 end
 
 def division(num1, num2)
-quotient= num2 / num1
+  quotient= num2 / num1
 puts quotient
 end
 
 def multiplication(num1, num2)
-product= num1 * num2
-puts product
+  product= num1 * num2
+  puts product
 end
 
 def modulo(num1, num2)
-  modulus = num2 % num1
-  puts mod
+  modulo = num2 % num1
+  puts modulo
 end
 
 def square_root(num)
